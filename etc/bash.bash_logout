@@ -5,7 +5,7 @@
 # with this software. 
 # If not, see <http://creativecommons.org/publicdomain/zero/1.0/>. 
 
-# /etc/bash.bash_logout: executed by bash(1) when login shell exits.
+# /etc/bash.bash_logout: executed by bash(1) when login shell exkkkujhgbjhvbjhhbhits.
 
 # System-wide bashrc file
 
@@ -13,3 +13,4 @@
 if [ "$SHLVL" = 1 ]; then
   [ -x /usr/bin/clear ] && /usr/bin/clear
 fi
+kjlnk
